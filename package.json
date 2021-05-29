@@ -1,0 +1,27 @@
+{
+  "name": "linkedin-company-cypress",
+  "version": "1.0.0",
+  "description": "Learning/educational application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maslakoff/linkedin-company-cypress.git"
+  },
+  "keywords": [
+    "linkedin",
+    "cypress",
+    "company"
+  ],
+  "author": "Ihar Maslakou <igormaslakoff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maslakoff/linkedin-company-cypress/issues"
+  },
+  "homepage": "https://github.com/maslakoff/linkedin-company-cypress#readme",
+  "devDependencies": {
+    "prettier": "2.3.0"
+  }
+}
